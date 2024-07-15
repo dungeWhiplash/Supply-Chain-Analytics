@@ -1,6 +1,6 @@
 # Supply-Chain-Analytics
 ## Find my interactive dashboard by logging in:
-https://app.powerbi.com/groups/me/reports/b81c36a8-f623-4bbe-87c5-d3787f57b956/ff2bb2f570ecdd98b9aa?experience=power-bi
+](https://app.powerbi.com/groups/me/reports/b81c36a8-f623-4bbe-87c5-d3787f57b956?ctid=17dcb00c-6941-4050-b69e-bd7eb8951712&pbi_source=linkShare&bookmarkGuid=39570e33-a5d9-4875-8322-bd2a7853e6f1)
 
 # Performance Analysis
 ![image](https://github.com/user-attachments/assets/e6ee0d76-3ff4-4a5f-8de5-39ac83425c49)
